@@ -1,8 +1,8 @@
 # Funcionalidad ExtractPorts.sh
 
-Esta funcionalidad sirve para extraer el total de puertos, imprimirlos en consola y copiarlos a la clipboard, del resultado de un escaneo de `nmap`, el script está inspirado en la herramienta desarrollada por `S4vitar ` en sus directos. La diferencia es el lenguaje de programación y un poco más simplicidad.
+Esta funcionalidad sirve para extraer el total de puertos, imprimirlos en consola y copiarlos a la clipboard, del resultado de un escaneo de `nmap`, el script está inspirado en la herramienta desarrollada por `[S4vitar](https://www.youtube.com/c/s4vitar) ` en sus directos. La diferencia es el lenguaje de programación y un poco más simplicidad.
 
-![](/Pasted image 20240718155156.png)
+![](https://github.com/IsuiLugo/extractP0rts/blob/main/Pasted%20image%2020240718155156.png?raw=true)
 
 El comando de `nmap` que suelo utilizar en muchas practicas es el siguiente:
 
@@ -142,7 +142,7 @@ Y guardar con la combinación de teclas: `ctrl+s` & `ctrl+x`
 ## Pasos para instalar desde `.zshrc` (Kali):
 Generalmente todas la nuevas versiones de Kali Linux, y incluyen la Shell ZSH:
 
-![](/Pasted image 20240718153957.png)
+![](https://github.com/IsuiLugo/extractP0rts/blob/main/Pasted%20image%2020240718153957.png?raw=true)
 
 Si estás utilizando `zsh`, el procedimiento es muy similar al de `bash`, pero con algunos pequeños ajustes. Aquí te dejo los pasos para que puedas ejecutar tu script desde cualquier ruta:
 
@@ -212,7 +212,7 @@ Para referencia, aquí está el script completo `extractPorts.sh` (o `extractPor
 
 Ahora deberías poder ejecutar `extractPorts` desde cualquier directorio y obtener los puertos abiertos, el total de puertos, el posible sistema operativo, y copiar los puertos abiertos al portapapeles.
 
-![](/Pasted image 20240718155021.png)
+![](https://github.com/IsuiLugo/extractP0rts/blob/main/Pasted%20image%2020240718155021.png?raw=true)
 
 ```python
 ┌──(isui㉿kali)-[~/TryHackMe/Blue]
