@@ -1,6 +1,6 @@
 # Funcionalidad ExtractPorts.sh
 
-Esta funcionalidad sirve para extraer el total de puertos, imprimirlos en consola y copiarlos a la clipboard, del resultado de un escaneo de `nmap`, el script está inspirado en la herramienta desarrollada por `[S4vitar](https://www.youtube.com/c/s4vitar) ` en sus directos. La diferencia es el lenguaje de programación y un poco más simplicidad.
+Esta funcionalidad sirve para extraer el total de puertos, imprimirlos en consola y copiarlos a la clipboard, del resultado de un escaneo de `nmap`, el script está inspirado en la herramienta desarrollada por [S4vitar](https://www.youtube.com/c/s4vitar)  en sus directos. La diferencia es el lenguaje de programación y un poco más simplicidad.
 
 ![](https://github.com/IsuiLugo/extractP0rts/blob/main/Pasted%20image%2020240718155156.png?raw=true)
 
